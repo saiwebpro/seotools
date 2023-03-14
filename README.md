@@ -1,7 +1,6 @@
-# Curated SEO Tools
+# Saiwebpro's SEO Tools
 
-List of handpicked and time proven SEO tools by [curatedseotools.com](https://curatedseotools.com)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a566ea10-78c1-457c-9426-30dfc0bacea6/deploy-status)](https://app.netlify.com/sites/priceless-galileo-fe4814/deploys)
+List of handpicked and time proven SEO tools by [seotools.saiwebpro.in](https://seotools.saiwebpro.in)
 
 
 ## Guides &amp; Must Reads ##
